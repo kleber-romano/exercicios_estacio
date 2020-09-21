@@ -5,13 +5,13 @@ public class Main {
         Scanner sc = new Scanner(System.in);
 
         //Variáveis
-        int a, b, soma;
+        int a, b, prod;
 
         a = sc.nextInt();
         b = sc.nextInt();
 
-        soma = a + b;
+        prod = a * b;
 
-        System.out.println("SOMA = " + soma);
+        System.out.println("PROD = " + prod);
     }
 }
