@@ -1,0 +1,16 @@
+D:\git\csharp\UdemyNelioExe001\bin\Debug\net5.0\UdemyNelioExe001.exe
+D:\git\csharp\UdemyNelioExe001\bin\Debug\net5.0\UdemyNelioExe001.deps.json
+D:\git\csharp\UdemyNelioExe001\bin\Debug\net5.0\UdemyNelioExe001.runtimeconfig.json
+D:\git\csharp\UdemyNelioExe001\bin\Debug\net5.0\UdemyNelioExe001.runtimeconfig.dev.json
+D:\git\csharp\UdemyNelioExe001\bin\Debug\net5.0\UdemyNelioExe001.dll
+D:\git\csharp\UdemyNelioExe001\bin\Debug\net5.0\ref\UdemyNelioExe001.dll
+D:\git\csharp\UdemyNelioExe001\bin\Debug\net5.0\UdemyNelioExe001.pdb
+D:\git\csharp\UdemyNelioExe001\obj\Debug\net5.0\UdemyNelioExe001.csprojAssemblyReference.cache
+D:\git\csharp\UdemyNelioExe001\obj\Debug\net5.0\UdemyNelioExe001.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\csharp\UdemyNelioExe001\obj\Debug\net5.0\UdemyNelioExe001.AssemblyInfoInputs.cache
+D:\git\csharp\UdemyNelioExe001\obj\Debug\net5.0\UdemyNelioExe001.AssemblyInfo.cs
+D:\git\csharp\UdemyNelioExe001\obj\Debug\net5.0\UdemyNelioExe001.csproj.CoreCompileInputs.cache
+D:\git\csharp\UdemyNelioExe001\obj\Debug\net5.0\UdemyNelioExe001.dll
+D:\git\csharp\UdemyNelioExe001\obj\Debug\net5.0\ref\UdemyNelioExe001.dll
+D:\git\csharp\UdemyNelioExe001\obj\Debug\net5.0\UdemyNelioExe001.pdb
+D:\git\csharp\UdemyNelioExe001\obj\Debug\net5.0\UdemyNelioExe001.genruntimeconfig.cache

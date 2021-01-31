@@ -1,0 +1,13 @@
+D:\git\csharp\UdemyNelioExe003\Exe003\Exe003\bin\Debug\netcoreapp3.1\Exe003.exe
+D:\git\csharp\UdemyNelioExe003\Exe003\Exe003\bin\Debug\netcoreapp3.1\Exe003.deps.json
+D:\git\csharp\UdemyNelioExe003\Exe003\Exe003\bin\Debug\netcoreapp3.1\Exe003.runtimeconfig.json
+D:\git\csharp\UdemyNelioExe003\Exe003\Exe003\bin\Debug\netcoreapp3.1\Exe003.runtimeconfig.dev.json
+D:\git\csharp\UdemyNelioExe003\Exe003\Exe003\bin\Debug\netcoreapp3.1\Exe003.dll
+D:\git\csharp\UdemyNelioExe003\Exe003\Exe003\bin\Debug\netcoreapp3.1\Exe003.pdb
+D:\git\csharp\UdemyNelioExe003\Exe003\Exe003\obj\Debug\netcoreapp3.1\Exe003.csprojAssemblyReference.cache
+D:\git\csharp\UdemyNelioExe003\Exe003\Exe003\obj\Debug\netcoreapp3.1\Exe003.AssemblyInfoInputs.cache
+D:\git\csharp\UdemyNelioExe003\Exe003\Exe003\obj\Debug\netcoreapp3.1\Exe003.AssemblyInfo.cs
+D:\git\csharp\UdemyNelioExe003\Exe003\Exe003\obj\Debug\netcoreapp3.1\Exe003.csproj.CoreCompileInputs.cache
+D:\git\csharp\UdemyNelioExe003\Exe003\Exe003\obj\Debug\netcoreapp3.1\Exe003.dll
+D:\git\csharp\UdemyNelioExe003\Exe003\Exe003\obj\Debug\netcoreapp3.1\Exe003.pdb
+D:\git\csharp\UdemyNelioExe003\Exe003\Exe003\obj\Debug\netcoreapp3.1\Exe003.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\git\csharp\UriJudge1035\UriJudge1035\bin\Debug\netcoreapp3.1\UriJudge1035.exe
+D:\git\csharp\UriJudge1035\UriJudge1035\bin\Debug\netcoreapp3.1\UriJudge1035.deps.json
+D:\git\csharp\UriJudge1035\UriJudge1035\bin\Debug\netcoreapp3.1\UriJudge1035.runtimeconfig.json
+D:\git\csharp\UriJudge1035\UriJudge1035\bin\Debug\netcoreapp3.1\UriJudge1035.runtimeconfig.dev.json
+D:\git\csharp\UriJudge1035\UriJudge1035\bin\Debug\netcoreapp3.1\UriJudge1035.dll
+D:\git\csharp\UriJudge1035\UriJudge1035\bin\Debug\netcoreapp3.1\UriJudge1035.pdb
+D:\git\csharp\UriJudge1035\UriJudge1035\obj\Debug\netcoreapp3.1\UriJudge1035.AssemblyInfoInputs.cache
+D:\git\csharp\UriJudge1035\UriJudge1035\obj\Debug\netcoreapp3.1\UriJudge1035.AssemblyInfo.cs
+D:\git\csharp\UriJudge1035\UriJudge1035\obj\Debug\netcoreapp3.1\UriJudge1035.csproj.CoreCompileInputs.cache
+D:\git\csharp\UriJudge1035\UriJudge1035\obj\Debug\netcoreapp3.1\UriJudge1035.dll
+D:\git\csharp\UriJudge1035\UriJudge1035\obj\Debug\netcoreapp3.1\UriJudge1035.pdb
+D:\git\csharp\UriJudge1035\UriJudge1035\obj\Debug\netcoreapp3.1\UriJudge1035.genruntimeconfig.cache

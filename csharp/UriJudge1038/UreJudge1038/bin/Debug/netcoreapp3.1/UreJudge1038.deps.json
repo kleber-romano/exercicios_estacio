@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UreJudge1038/1.0.0": {
+        "runtime": {
+          "UreJudge1038.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UreJudge1038/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
